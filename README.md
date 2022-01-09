@@ -1,9 +1,9 @@
 - 👋 Hi, We are @teamletsplay
 this is for the oopsmini project
 our team consist of
-jaden_(4012030)
-Rushabh_
-Saish_
+jaden_(2014030)
+Rushabh_(2014043)
+Saish_(2014045)
 Kaushik_
 - 
 
