@@ -1,10 +1,8 @@
 - 👋 Hi, We are @teamletsplay
 this is for the oopsmini project
-our team consist of
+using simple cpp this is a simple single player checkers games against computer
 jaden_(2014030)
-Rushabh_(2014043)
-Saish_(2014045)
-Kaushik_(2014022)
+
 - 
 
 <!---
